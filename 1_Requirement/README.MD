@@ -8,4 +8,6 @@
 
 * 4 W,s & 1H
   
+  * Swot analysis
+  * best method follows
   
