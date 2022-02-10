@@ -10,4 +10,5 @@
   
   * Swot analysis
   * best method follows
-  
+
+* 	State of art/Research

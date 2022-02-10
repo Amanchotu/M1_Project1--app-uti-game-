@@ -1,0 +1,6 @@
+* 	Workflow is added for Building code on Linux
+ * Workflow is added for Building code on Windows
+ * Workflow is added for Unit testing of code
+ *  Code quality badges is added using Cppcheck and Valgrind
+ * Code quality badges is added using Codacy or Codeinspector
+ * Issues Raised/Resolved - Self/Peer/from badges Feedback
