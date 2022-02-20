@@ -2,7 +2,6 @@
 #include <conio.h>
 #include <string.h>
 #include <stdlib.h>
-
 struct currentValidID
 {
         int year;
