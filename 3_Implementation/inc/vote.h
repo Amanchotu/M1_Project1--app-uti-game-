@@ -29,7 +29,7 @@ int printvote(int arr[1][1]);
  * @param num Number to be checked and added
  */
 
-int safeSudoku(int arr[2][2], int row, int col, int num);
+int vote(int arr[2][2], int row, int col, int num);
 
 /**
  * @brief Function of vote
