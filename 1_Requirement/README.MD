@@ -8,17 +8,13 @@ Online voting system is very secure system for voting purpose. now a days online
   
 * LOW LEVEL REQUIREMENT
   . How each features implemented 
-<<<<<<< HEAD
    . Linkage of high level to low levl
-=======
    . Linkage of high level to low level
->>>>>>> e587638c5c54165a2722620003104f0df47def66
 
  * Research
  -----------------------------------------------------------------------------------------
  It assist to improve the whole system of voting and develop user to improve their mindset.
 
-<<<<<<< HEAD
  * Defining System
  ---------------------------------------------------------------------------------------
 > Extract year
@@ -106,4 +102,3 @@ ________________________________________________________________
 | LL3  | check vote before result or count    | IMPLEMENTED     |
 | LL4  |  print the final solution, if exist  | IMPLEMENTED     |
 |_____|______________________________________|_________________|
->>>>>>> e587638c5c54165a2722620003104f0df47def66
