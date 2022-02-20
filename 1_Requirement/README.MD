@@ -3,13 +3,15 @@
 ---------------------------------------------------------------------------------------
 Online voting system is very secure system for voting purpose. now a days online voting is very famous and it is use in all the place of smooth  voting. in this who have citizenship of that place or  which age is avove 18 year can give the vote . Due to this technology  every vote is recorded and be safe in memory for easy counting.
 
-* HIGH LEVEL REQUIREMENT 
- . features of project
+ * HIGH LEVEL REQUIREMENT
+  _______________________________________________  _______________________________________
+   . features of project
   
 * LOW LEVEL REQUIREMENT
-  . How each features implemented 
-   . Linkage of high level to low levl
-   . Linkage of high level to low level
+_______________________________________________________________________________________
+        . How each features implemented 
+         . Linkage of high level to low levl
+         . Linkage of high level to low level
 
  * Research
  -----------------------------------------------------------------------------------------
@@ -89,14 +91,12 @@ ______________________________________________________________
 > Low-Level Requirements
 ________________________________________________________________
 | ID  |  DESCRIPTION                         | STATUS          |
-<<<<<<< HEAD
 |LL2  | call of vote ()                      | IMPLEMENTED     |
 |LL3  | check vote before result or count    | IMPLEMENTED     |
 |LL4  |  print the final solution, if exist  | IMPLEMENTED     |
 |_____|______________________________________|_________________|
 
 
-=======
 | LL1  | SMPLE and USER CODE IN main()        | IMPLEMENTED     |
 | LL2  | call of vote ()                      | IMPLEMENTED     |
 | LL3  | check vote before result or count    | IMPLEMENTED     |
