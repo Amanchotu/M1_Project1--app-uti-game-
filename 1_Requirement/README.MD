@@ -1,4 +1,4 @@
-* GATHER ALL THE REQUIREMENS 
+
 * HIGH LEVEL REQUIREMENT 
  . features of project
   
