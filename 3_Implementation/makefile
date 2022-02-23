@@ -28,7 +28,7 @@ else
    endif
 endif
 
-.PHONY : all run clean doc
+.PHONY : all run  doc
 
 all:$(BUILD_DIR)
 	mkdir $(BUILD_DIR)
