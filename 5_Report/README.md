@@ -1,1 +1,2 @@
-* generate all the report in specific manner
+* generate all the report in specific way
+* 
