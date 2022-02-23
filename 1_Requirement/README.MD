@@ -81,24 +81,20 @@ How- It will build using very simple algorithm by taking inputs from user and gi
 * Detail Requirements
 ---------------------------------------------------------------------------------------------------
 > High-Level Requirements
-______________________________________________________________
-|_ID__| DESCRIPTION                         |   STATUS       |
-| H1  | CONTAIN SAMPLE AND TAKE USER INPUT  |  IMPLEMENTED   |
-| H2  | PRINT THE FINAL RESULT IF EXIST     |  IMPLEMENTED   |
-|_____|_____________________________________|________________|
+__________________________________________________________________________________________________________________________
+
+|Test ID  |    Description  | 
+-------------|-----------------------------------
+|HL01     |    CONTAIN SAMPLE AND TAKE USER INPUT  |  
+|HL02     |     PRINT THE FINAL RESULT IF EXIST  |    
+|HL03    |    There should not be any delay in operation and result.Test ID  |  
 
 ------------------------------------------------------------------------------------------------------
 > Low-Level Requirements
-________________________________________________________________
-| ID  |  DESCRIPTION                         | STATUS          |
-|LL2  | call of vote ()                      | IMPLEMENTED     |
-|LL3  | check vote before result or count    | IMPLEMENTED     |
-|LL4  |  print the final solution, if exist  | IMPLEMENTED     |
-|_____|______________________________________|_________________|
+________________________________________________________________________________________________________________
+|Test ID  |    Description  |  
+-------------|-----------------------------------
+|LL1    |     call of vote ()     | 
+|LL2     |   print the final solution, if exist |
+|LL3     |     check vote before result or count         |
 
-
-| LL1  | SMPLE and USER CODE IN main()        | IMPLEMENTED     |
-| LL2  | call of vote ()                      | IMPLEMENTED     |
-| LL3  | check vote before result or count    | IMPLEMENTED     |
-| LL4  |  print the final solution, if exist  | IMPLEMENTED     |
-|_____|______________________________________|_________________|
