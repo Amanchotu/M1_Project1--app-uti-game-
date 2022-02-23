@@ -1,13 +1,13 @@
 
-* Introduction
+* ## Introduction
 ---------------------------------------------------------------------------------------
 Online voting system is very secure system for voting purpose. now a days online voting is very famous and it is use in all the place of smooth  voting. in this who have citizenship of that place or  which age is avove 18 year can give the vote . Due to this technology  every vote is recorded and be safe in memory for easy counting.
 
- * HIGH LEVEL REQUIREMENT
+ * ## HIGH LEVEL REQUIREMENT
   _______________________________________________  _______________________________________
    . features of project
   
-* LOW LEVEL REQUIREMENT
+* ## LOW LEVEL REQUIREMENT
 _______________________________________________________________________________________
         . How each features implemented 
          . Linkage of high level to low levl
@@ -26,44 +26,44 @@ ________________________________________________________________________________
 > Final Winner List 
 > Generate new Election
 
-* Requirements
+* ## Requirements
 --------------------------------------------------------------------------------------------
 This requires Knowledge of C programming and basic idea to solve the input.
 
-* Cost 
+* ## Cost 
 -------------------------------------------------------------------------------------------
 > cost is not required for this project.
 
-* Feature
+* ## Feature
 > Solve the issue which we have facing in offline voting system.
 > user can only put one vote and it will be save in our system.
 
-* SWOT Analysis
+* ## SWOT Analysis
 -------------------------------------------------------------------------------------------
 >SWOT analysis is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats.
 
-* Strength
+* ## Strength
 -----------------------------------------------------------------------------------------------
 > USER Interface to make it interesting
 > simple and easy to use.
 
-* Weaknesses
+* ## Weaknesses
 ------------------------------------------------------------------------------------------------
 > Input not in orderly fashion, and no tracking for the current row and column.
 > Output could be overwhelming and will take multiple look to verify results.
 
-* Oppourtunites 
+* ## Oppourtunites 
 ------------------------------------------------------------------------------------------------
 > each user have opportunity to give the vote and every one was get their vote.
 > Graphic increase the user interface ability.
 
-* Threats
+* ## Threats
 ----------------------------------------------------------------------------------------------
 > Competitors.
 > Advancements in technology.
 > Functionality is basic and get replaced by better algorithms.
 
-* 4W and 1H
+* ## 4W and 1H
 4W- Who, What, When, Where
 -------------------------------------------------------------------------------------------------
 > Who- This is open for anyone.
@@ -74,13 +74,13 @@ This requires Knowledge of C programming and basic idea to solve the input.
 
 > Where- It is made using visual studio code on windows 10.
 
-* 1H- How
+* ## 1H- How
 ----------------------------------------------------------------------------------------------------
 How- It will build using very simple algorithm by taking inputs from user and give a solution for the same.
 
 * Detail Requirements
 ---------------------------------------------------------------------------------------------------
-> High-Level Requirements
+## High-Level Requirements
 __________________________________________________________________________________________________________________________
 
 |Test ID  |    Description  | 
@@ -90,7 +90,7 @@ ________________________________________________________________________________
 |HL03    |    There should not be any delay in operation and result.Test ID  |  
 
 ------------------------------------------------------------------------------------------------------
-> Low-Level Requirements
+##  Low-Level Requirements
 ________________________________________________________________________________________________________________
 |Test ID  |    Description  |  
 -------------|-----------------------------------
