@@ -1,5 +1,4 @@
 3_Implementation/project_main.c:54:8: style: The scope of the variable 'newArr' can be reduced. [variableScope]
-int a, newArr[N][N];
        ^
 3_Implementation/unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 42 configurations. Use --force to check all configurations. [toomanyconfigs]
 
